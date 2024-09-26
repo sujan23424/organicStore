@@ -14,3 +14,21 @@ function shownavbar(){
     list.classList.toggle("showdesign");
 }
 
+
+// var getintouch = document.querySelector(".getintouch");
+// getintouch.addEventListener("click",
+//     function(){
+//         alert("I got clicked");
+//     }
+// )
+
+
+// $(document).ready(
+//     function(){
+//     $(".getintouch").click(
+//         function(){
+//       alert("I got clicked");
+//     });
+//   });
+
+
